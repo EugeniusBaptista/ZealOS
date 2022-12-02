@@ -1,1 +1,1 @@
-Please make a better README.
+Make a better doc.
